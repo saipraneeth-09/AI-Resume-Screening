@@ -6,7 +6,7 @@ This project is an AI-based resume screening system that extracts, processes, an
 - Implements **spaCy & NLTK** for text preprocessing.
 - Interactive **Streamlit** web interface.
 
-## 🚀Usage
+## Usage
 streamlit run app.py
 
 Upload resumes, provide a job description, and get ranked results
