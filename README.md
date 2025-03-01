@@ -1,0 +1,4 @@
+- Extracts and processes text from PDF resumes.
+- Uses **TF-IDF** and **cosine similarity** to match resumes with job descriptions.
+- Provides a ranked list of candidates.
+- Built with **Streamlit** for a user-friendly interface.
